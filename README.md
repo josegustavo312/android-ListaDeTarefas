@@ -1,6 +1,6 @@
 ## Lista de Tarefas - Mobile
 
-###  :computer: Tela
+### :desktop_computer: Tela
 
 <div align="center">
   <img alt="Tela" title="#Tela" width="100%" height="auto" src="./README/tela.png" />
@@ -9,7 +9,7 @@
 ----------
 
 ### :hammer_and_wrench: Ferramentas
-As seguintes tecnologias foram utilizadas na construção do projeto:
+As seguintes tecnologias foram utilizadas na construÃ§Ã£o do projeto:
 - Java;
 - XML;
 - Banco de Dados - SQLite;
@@ -17,13 +17,13 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ----------
 
-###  :gear: Função
+###  :gear: FunÃ§Ã£o
 - [x] Salvar as tarefas em um banco de dados local.
 
 ----------
 
 ###  :eyeglasses: Autor
-José Gustavo da Silva.
+JosÃ© Gustavo da Silva.
 [
 **Linkedin**
 ](https://www.linkedin.com/in/jose-gustavo312/)
