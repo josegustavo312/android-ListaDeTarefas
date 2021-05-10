@@ -1,6 +1,6 @@
-## Lista de Tarefas - Mobile
+## :rocket: Lista de Tarefas - Mobile
 
-### :desktop_computer: Tela
+### :art: Layout
 
 <div align="center">
   <img alt="Tela" title="#Tela" width="100%" height="auto" src="./README/tela.png" />
@@ -24,6 +24,5 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ###  :eyeglasses: Autor
 José Gustavo da Silva.
-[
-**Linkedin**
-](https://www.linkedin.com/in/jose-gustavo312/)
+<br/>
+<a href="https://www.linkedin.com/in/jose-gustavo312/"><img alt="LinkedIn" title="#LinkedIn" width="48" height="auto" src="https://raw.githubusercontent.com/josegustavo312/josegustavo312/main/README/linkedin.png"/></a>
